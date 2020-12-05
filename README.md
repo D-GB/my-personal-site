@@ -1,2 +1,2 @@
 # my-personal-site
-html &amp; css
+using HTML5 & CSS3
